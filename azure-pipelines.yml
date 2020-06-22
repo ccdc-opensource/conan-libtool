@@ -12,3 +12,5 @@ extends:
     package_version: 2.4.6
     source_repository: public-conan-center
     destination_repository: ccdc-3rdparty-conan
+    build_types:
+      - Release
